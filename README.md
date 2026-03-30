@@ -52,4 +52,4 @@ RAPK é um aplicativo desenvolvido em Flutter para facilitar a geração de rela
 Este projeto está sob a licença [MIT](LICENSE).
 
 ---
-Desenvolvido com ❤️ por [Seu Nome/GitHub]
+Desenvolvido por Jose Victor (deu trabalho) 
